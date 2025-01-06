@@ -41,10 +41,10 @@ const App = () => {
     <div>
       <FastnWidget
         style={{ backgroundColor: "black" }}
-        projectId="a069807a-ef17-47cd-b4bc-ec29249049bd"
+        projectId="727294f7-862a-47d1-bd8b-b696e30a6a36"
         authToken={authToken}
-        tenantId="hello"
-        apiKey="0a7b75ee-55be-4190-b811-f070d3469599"
+        tenantId="oauth"
+        apiKey="f4271323-4693-4c49-83bc-47fa42db9760"
         theme="light"
         env="LIVE"
       />
